@@ -34,7 +34,7 @@ Review and Create IAM User
 
 ## OUTPUT
 ROOT USER:
-<img width="1915" height="909" alt="image" src="https://github.com/user-attachments/assets/bdb591ff-9443-47ef-96ae-db45b99f5887" />
+<img width="1914" height="854" alt="image" src="https://github.com/user-attachments/assets/b27ba780-0c32-427c-a36c-02d8d786a5d0" />
 
 
 IAM USER:
